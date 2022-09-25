@@ -1,6 +1,4 @@
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0.csproj.AssemblyReference.cache
-E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\MainWindow.g.cs
-E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\RegistrationWindows.g.cs
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\App.g.cs
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0_MarkupCompile.cache
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0_MarkupCompile.lref
@@ -9,8 +7,6 @@ E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\bin\Debug\net6.0-windo
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\bin\Debug\net6.0-windows\Authorization 2.0.runtimeconfig.json
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\bin\Debug\net6.0-windows\Authorization 2.0.dll
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\bin\Debug\net6.0-windows\Authorization 2.0.pdb
-E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\MainWindow.baml
-E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\RegistrationWindows.baml
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0.g.resources
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0.GeneratedMSBuildEditorConfig.editorconfig
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0.AssemblyInfoInputs.cache
@@ -21,3 +17,7 @@ E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windo
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0.pdb
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\Authorization 2.0.genruntimeconfig.cache
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\ref\Authorization 2.0.dll
+E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\AuthorizationWindow.g.cs
+E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\Profile1Windows.g.cs
+E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\AuthorizationWindow.baml
+E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\obj\Debug\net6.0-windows\View\Profile1Windows.baml

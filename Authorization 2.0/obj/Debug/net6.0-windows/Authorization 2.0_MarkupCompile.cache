@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\Praktiks\Pogorelov\Authorization 2.0\Authorization 2.0\App.xaml
-2462644541
+2236080418
 
-5-878647976
+5-819902017
 194-1103864946
-View\MainWindow.xaml;View\RegistrationWindows.xaml;
+View\AuthorizationWindow.xaml;View\Profile1Windows.xaml;
 
 False
 
